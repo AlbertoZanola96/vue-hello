@@ -5,7 +5,8 @@ const app = new Vue(
     {
         el: '#root',
         data: {
-            saluto: 'hello world'
+            saluto: 'hello world',
+            image: 'img/ciaomondo.png'
         }
     }
 )
